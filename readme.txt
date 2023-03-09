@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Testing no fast-forward mode.
 Create Hello.java file.
+Add a line in line with creating a Hello_2 java file.
